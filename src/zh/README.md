@@ -2,11 +2,11 @@
 home: true
 layout: Blog
 icon: home
-title: 博客主页
+title: open-blog
 heroImage: /logo.svg
-heroText: 你博客的名称
+heroText: 少小须勤学, 文章可立身
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 
 projects:
   - icon: project
     name: 项目名称
